@@ -1,7 +1,7 @@
 # cltdevs meetup manifesto
 
 ## Mission statement
-We are committed to the Charlotte tech community's growth and sustainability by fostering relationships between individuals and organizations, cultivating individual talents and organizations, and discover and build the missing elements of a thriving tech community.
+We are committed to the Charlotte tech community's growth and sustainability by fostering relationships between individuals and organizations, cultivating talent, and discovering and building the missing elements of a thriving tech community.
 
 ## Our target audience
 Developers for now (hence the name), but we welcome anyone that wants to join the community.
