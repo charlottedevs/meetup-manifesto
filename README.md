@@ -34,7 +34,7 @@ We believe that leadership is rare and we seek to cultivate both by seeking out 
 As one of the primary principles in our country's founding, we also believe that equal opportunity is important to this community as well.
 
 ### Diversity
-Diversity isn't just a 'right' thing, it's smart biologically, politically, and financially - it's just smart business. As such, we also believe diversity is important to building a strong organization that will last.
+Diversity isn't just a 'right' thing, it's smart business. As such, we also believe diversity is important to building a strong organization that will last.
 
 ### Community
 We believe that the foundation to fostering relationships between people is a sense of belonging and understanding that we have something in common. For this reason, we seek to always remember that we have much in common with one another and are better together than apart.
